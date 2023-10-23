@@ -1,0 +1,1 @@
+gentoo-minimal-install/* filter=lfs diff=lfs merge=lfs -text
